@@ -1,0 +1,7 @@
+School project where we had to reproduce some basic ciphers in OCaml.
+
+There are two parts to this project.
+1/ Builtin -> basics ciphers using builtin int implementation (small numbers)
+2/ Scalable -> same as builtin, but with infinite numbers stored as bitarrays
+
+Time spent: around 3 full days of work.

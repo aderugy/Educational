@@ -1,0 +1,18 @@
+(lang dune 3.6)
+
+(name BasicCryptography)
+
+(generate_opam_files true)
+
+(source
+ (github aderugy/aderugy.git))
+
+(authors "Arthur de Rugy")
+
+(maintainers "Arthur de Rugy")
+
+(package
+ (name BasicCryptography)
+ (synopsis "Basic ciphers implemenation")
+ (depends ocaml dune)
+ (allow_empty))
